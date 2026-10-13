@@ -1,11 +1,13 @@
 # Análise de Faturamento Médico | SQL, Python, Power BI e IA
 
-## Dashboard — Visão Financeira
-
-Projeto de portfólio com **dados simulados**, voltado à análise financeira de faturamento médico, glosas, contas a receber e priorização de cobranças.
+Projeto de portfólio desenvolvido com dados simulados,
+integrando faturamento, recebimentos, despesas e glosas
+para apoiar análises financeiras e a tomada de decisão.
 
 ## Demonstração do Projeto
-Assista à demonstração dos dashboards, da carga incremental em Python e da atualização dos dados no Power BI.
+
+Assista à demonstração dos dashboards, da carga incremental
+em Python e da atualização dos dados no Power BI.
 
 https://github.com/user-attachments/assets/dcd58811-6931-404d-863a-484619835535
 
