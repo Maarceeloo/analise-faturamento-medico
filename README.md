@@ -2,9 +2,12 @@
 
 ## Dashboard — Visão Financeira
 
-![Dashboard de Faturamento Médico](docs/Visao_Financeira_GitHub.jpg)
-
 Projeto de portfólio com **dados simulados**, voltado à análise financeira de faturamento médico, glosas, contas a receber e priorização de cobranças.
+
+## Demonstração do Projeto
+Assista à demonstração dos dashboards, da carga incremental em Python e da atualização dos dados no Power BI.
+
+https://github.com/user-attachments/assets/dcd58811-6931-404d-863a-484619835535
 
 ## O que foi desenvolvido
 
