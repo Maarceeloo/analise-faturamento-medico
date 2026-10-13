@@ -1,0 +1,135 @@
+﻿id_despesa;data_competencia;data_vencimento;data_pagamento;categoria;fornecedor;descricao;forma_pagamento;valor_previsto_rs;valor_pago_rs;status;recorrente;observacao
+DSP-0001;2026-02-01;2026-02-20;2026-02-20;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;
+DSP-0002;2026-02-01;2026-02-15;2026-02-16;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;
+DSP-0003;2026-02-01;2026-02-10;2026-02-11;Contabilidade;Contabilize Clinicas;Contabilidade;Cartao de credito;650;650;Pago;Sim;
+DSP-0004;2026-02-01;2026-02-28;2026-02-26;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;
+DSP-0005;2026-02-01;2026-02-25;2026-02-28;Internet e telefone;Vivo Empresas;Internet e telefone;Cartao de credito;280;280;Pago;Sim;
+DSP-0006;2026-02-01;2026-02-15;2026-02-15;Energia eletrica;Cemig;Energia eletrica;PIX;536.54;536.54;Pago;Sim;
+DSP-0007;2026-02-01;2026-02-15;2026-02-15;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;
+DSP-0008;2026-02-01;2026-02-15;2026-02-15;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;941.92;941.92;Pago;Nao;
+DSP-0009;2026-02-01;2026-02-10;2026-02-13;Impostos;Prefeitura / Receita;Impostos;PIX;2151.8;2151.8;Pago;Nao;
+DSP-0010;2026-02-01;2026-02-28;2026-02-26;Manutencao;Prestador local;Manutencao;Debito automatico;486.16;486.16;Pago;Nao;
+DSP-0011;2026-02-01;2026-02-15;2026-02-13;Taxas bancarias;Banco;Taxas bancarias;Cartao de credito;180;180;Pago;Nao;
+DSP-0012;2026-03-01;2026-03-10;2026-03-10;Aluguel;Imobiliaria Centro Medico;Aluguel;Cartao de credito;5200;5200;Pago;Sim;
+DSP-0013;2026-03-01;2026-03-10;2026-03-08;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;
+DSP-0014;2026-03-01;2026-03-08;2026-03-08;Contabilidade;Contabilize Clinicas;Contabilidade;Debito automatico;650;650;Pago;Sim;
+DSP-0015;2026-03-01;2026-03-20;2026-03-18;Software medico;MedSystem;Software medico;PIX;399;399;Pago;Sim;
+DSP-0016;2026-03-01;2026-03-28;2026-03-28;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;
+DSP-0017;2026-03-01;2026-03-10;2026-03-13;Energia eletrica;Cemig;Energia eletrica;Debito automatico;481.44;481.44;Pago;Sim;
+DSP-0018;2026-03-01;2026-03-05;2026-03-06;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;
+DSP-0019;2026-03-01;2026-03-15;2026-03-16;Materiais medicos;MedSupply;Materiais medicos;PIX;856.79;856.79;Pago;Nao;
+DSP-0020;2026-03-01;2026-03-10;2026-03-11;Impostos;Prefeitura / Receita;Impostos;Debito automatico;2356.77;2356.77;Pago;Nao;
+DSP-0021;2026-03-01;2026-03-28;2026-03-29;Marketing;Agencia Saude Digital;Marketing;PIX;600;600;Pago;Nao;
+DSP-0022;2026-03-01;2026-03-08;2026-03-11;Manutencao;Prestador local;Manutencao;Debito automatico;436.82;436.82;Pago;Nao;
+DSP-0023;2026-03-01;2026-03-08;2026-03-11;Taxas bancarias;Banco;Taxas bancarias;Debito automatico;180;180;Pago;Nao;
+DSP-0024;2026-04-01;2026-04-10;2026-04-11;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;
+DSP-0025;2026-04-01;2026-04-15;2026-04-13;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;
+DSP-0026;2026-04-01;2026-04-10;2026-04-10;Contabilidade;Contabilize Clinicas;Contabilidade;PIX;650;650;Pago;Sim;
+DSP-0027;2026-04-01;2026-04-10;2026-04-13;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;
+DSP-0028;2026-04-01;2026-04-28;2026-04-28;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;
+DSP-0029;2026-04-01;2026-04-25;2026-04-23;Energia eletrica;Cemig;Energia eletrica;Debito automatico;576.12;576.12;Pago;Sim;
+DSP-0030;2026-04-01;2026-04-10;2026-04-08;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;
+DSP-0031;2026-04-01;2026-04-10;2026-04-10;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;985.34;985.34;Pago;Nao;
+DSP-0032;2026-04-01;2026-04-15;2026-04-15;Impostos;Prefeitura / Receita;Impostos;Boleto;2541.92;2541.92;Pago;Nao;
+DSP-0033;2026-04-01;2026-04-10;2026-04-13;Marketing;Agencia Saude Digital;Marketing;Cartao de credito;600;600;Pago;Nao;
+DSP-0034;2026-04-01;2026-04-20;2026-04-18;Manutencao;Prestador local;Manutencao;Boleto;417.94;417.94;Pago;Nao;
+DSP-0035;2026-04-01;2026-04-20;2026-04-21;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;
+DSP-0036;2026-05-01;2026-05-25;2026-05-26;Aluguel;Imobiliaria Centro Medico;Aluguel;Debito automatico;5200;5200;Pago;Sim;
+DSP-0037;2026-05-01;2026-05-25;2026-05-28;Secretaria;Mariana Souza;Secretaria;Cartao de credito;3200;3200;Pago;Sim;
+DSP-0038;2026-05-01;2026-05-20;2026-05-18;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;
+DSP-0039;2026-05-01;2026-05-10;2026-05-11;Software medico;MedSystem;Software medico;Boleto;399;399;Pago;Sim;
+DSP-0040;2026-05-01;2026-05-08;2026-05-08;Internet e telefone;Vivo Empresas;Internet e telefone;Debito automatico;280;280;Pago;Sim;
+DSP-0041;2026-05-01;2026-05-28;2026-05-28;Energia eletrica;Cemig;Energia eletrica;PIX;518.73;518.73;Pago;Sim;
+DSP-0042;2026-05-01;2026-05-25;2026-05-25;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;
+DSP-0043;2026-05-01;2026-05-10;2026-05-10;Materiais medicos;MedSupply;Materiais medicos;Boleto;948.99;948.99;Pago;Nao;
+DSP-0044;2026-05-01;2026-05-15;2026-05-15;Impostos;Prefeitura / Receita;Impostos;Boleto;2266.54;2266.54;Pago;Nao;
+DSP-0045;2026-05-01;2026-05-10;2026-05-13;Manutencao;Prestador local;Manutencao;Cartao de credito;452.4;452.4;Pago;Nao;
+DSP-0046;2026-05-01;2026-05-15;2026-05-13;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;
+DSP-0047;2026-06-01;2026-06-08;2026-06-08;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;
+DSP-0048;2026-06-01;2026-06-05;2026-06-05;Secretaria;Mariana Souza;Secretaria;Debito automatico;3200;3200;Pago;Sim;
+DSP-0049;2026-06-01;2026-06-25;2026-06-28;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;
+DSP-0050;2026-06-01;2026-06-25;2026-06-23;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;
+DSP-0051;2026-06-01;2026-06-28;2026-06-26;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;
+DSP-0052;2026-06-01;2026-06-28;2026-06-28;Energia eletrica;Cemig;Energia eletrica;Debito automatico;583.47;583.47;Pago;Sim;
+DSP-0053;2026-06-01;2026-06-28;2026-06-26;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;
+DSP-0054;2026-06-01;2026-06-25;2026-06-23;Materiais medicos;MedSupply;Materiais medicos;Cartao de credito;951.76;951.76;Pago;Nao;
+DSP-0055;2026-06-01;2026-06-28;2026-06-28;Impostos;Prefeitura / Receita;Impostos;Boleto;2581.3;2581.3;Pago;Nao;
+DSP-0056;2026-06-01;2026-06-05;2026-06-08;Manutencao;Prestador local;Manutencao;Debito automatico;459.42;459.42;Pago;Nao;
+DSP-0057;2026-06-01;2026-06-15;2026-06-13;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;
+DSP-0058;2026-07-01;2026-07-20;2026-07-20;Aluguel;Imobiliaria Centro Medico;Aluguel;Debito automatico;5200;5200;Pago;Sim;
+DSP-0059;2026-07-01;2026-07-28;2026-07-29;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;
+DSP-0060;2026-07-01;2026-07-15;2026-07-13;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;
+DSP-0061;2026-07-01;2026-07-08;;Software medico;MedSystem;Software medico;Cartao de credito;399;0;Pendente;Sim;
+DSP-0062;2026-07-01;2026-07-15;2026-07-18;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;
+DSP-0063;2026-07-01;2026-07-15;;Energia eletrica;Cemig;Energia eletrica;PIX;532.5;0;Pendente;Sim;
+DSP-0064;2026-07-01;2026-07-10;2026-07-11;Limpeza;LimpaBem;Limpeza;Boleto;650;650;Pago;Sim;
+DSP-0065;2026-07-01;2026-07-28;2026-07-28;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;1019.68;1019.68;Pago;Nao;
+DSP-0066;2026-07-01;2026-07-05;;Impostos;Prefeitura / Receita;Impostos;PIX;2530.22;0;Pendente;Nao;
+DSP-0067;2026-07-01;2026-07-25;;Marketing;Agencia Saude Digital;Marketing;PIX;600;0;Pendente;Nao;
+DSP-0068;2026-07-01;2026-07-28;2026-07-29;Manutencao;Prestador local;Manutencao;Debito automatico;477.6;477.6;Pago;Nao;
+DSP-0069;2026-07-01;2026-07-25;;Taxas bancarias;Banco;Taxas bancarias;Debito automatico;180;0;Pendente;Nao;
+DSP-0070;2026-03-01;2026-03-17;2026-03-17;Reembolso;Hospital parceiro;Reembolso;Boleto;1566.5;1566.5;Pago;Nao;Lancamento manual
+DSP-0071;2026-02-01;2026-02-04;2026-02-04;Cursos e congressos;Prestador local;Cursos e congressos;Boleto;1672.78;1672.78;Pago;Nao;Lancamento manual
+DSP-0072;2026-03-01;2026-03-05;2026-03-05;Manutencao;MedSupply;Manutencao;Boleto;566.98;566.98;Pago;Nao;Lancamento manual
+DSP-0073;2026-05-01;2026-05-26;2026-05-26;Outros;Fornecedor local;Outros;Boleto;758.04;758.04;Pago;Nao;Lancamento manual
+DSP-0074;2026-03-01;2026-03-02;2026-03-02;Cursos e congressos;Hospital parceiro;Cursos e congressos;Boleto;871.77;871.77;Pago;Nao;Lancamento manual
+DSP-0075;2026-07-01;2026-07-02;2026-07-02;Materiais medicos;Prestador local;Materiais medicos;Cartao de credito;1491.82;1491.82;Pago;Nao;Lancamento manual
+DSP-0076;2026-02-01;2026-02-24;2026-02-24;Estacionamento;Diversos;Estacionamento;Cartao de credito;783.63;783.63;Pago;Nao;Lancamento manual
+DSP-0077;2026-05-01;2026-05-28;2026-05-28;Cursos e congressos;Fornecedor local;Cursos e congressos;Cartao de credito;1265.09;1265.09;Pago;Nao;Lancamento manual
+DSP-0078;2026-04-01;2026-04-08;2026-04-08;Outros;MedSupply;Outros;PIX;823.18;823.18;Pago;Nao;Lancamento manual
+DSP-0079;2026-06-01;2026-06-24;2026-06-24;Manutencao;Prestador local;Manutencao;Cartao de credito;1147.66;1147.66;Pago;Nao;Lancamento manual
+DSP-0080;2026-03-01;2026-03-03;2026-03-03;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;321.98;321.98;Pago;Nao;Lancamento manual
+DSP-0081;2026-03-01;2026-03-19;2026-03-19;Reembolso;Prestador local;Reembolso;Boleto;1248.5;1248.5;Pago;Nao;Lancamento manual
+DSP-0082;2026-07-01;2026-07-22;2026-07-22;Outros;Diversos;Outros;Boleto;279.31;279.31;Pago;Nao;Lancamento manual
+DSP-0083;2026-05-01;2026-05-13;2026-05-13;Manutencao;Prestador local;Manutencao;PIX;193.12;193.12;Pago;Nao;Lancamento manual
+DSP-0084;2026-06-01;2026-06-22;2026-06-22;Cursos e congressos;Diversos;Cursos e congressos;PIX;1703.05;1703.05;Pago;Nao;Lancamento manual
+DSP-0085;2026-02-01;2026-02-09;2026-02-09;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;1665.06;1665.06;Pago;Nao;Lancamento manual
+DSP-0086;2026-04-01;2026-04-23;2026-04-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;1754.59;1754.59;Pago;Nao;Lancamento manual
+DSP-0087;2026-04-01;2026-04-02;2026-04-02;Materiais medicos;Hospital parceiro;Materiais medicos;Cartao de credito;748.82;748.82;Pago;Nao;Lancamento manual
+DSP-0088;2026-05-01;2026-05-05;2026-05-05;Manutencao;Prestador local;Manutencao;PIX;201.3;201.3;Pago;Nao;Lancamento manual
+DSP-0089;2026-03-01;2026-03-16;2026-03-16;Materiais medicos;Hospital parceiro;Materiais medicos;Boleto;1306.11;1306.11;Pago;Nao;Lancamento manual
+DSP-0090;2026-07-01;2026-07-28;2026-07-28;Materiais medicos;Prestador local;Materiais medicos;Boleto;438.97;438.97;Pago;Nao;Lancamento manual
+DSP-0091;2026-07-01;2026-07-28;;Cursos e congressos;Diversos;Cursos e congressos;PIX;273.5;0;Pendente;Nao;Lancamento manual
+DSP-0092;2026-05-01;2026-05-13;2026-05-13;Outros;Hospital parceiro;Outros;PIX;1233.47;1233.47;Pago;Nao;Lancamento manual
+DSP-0093;2026-06-01;2026-06-26;2026-06-26;Manutencao;Prestador local;Manutencao;PIX;95.5;95.5;Pago;Nao;Lancamento manual
+DSP-0094;2026-07-01;2026-07-13;2026-07-13;Manutencao;Hospital parceiro;Manutencao;PIX;693.71;693.71;Pago;Nao;Lancamento manual
+DSP-0095;2026-02-01;2026-02-04;2026-02-04;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;278.77;278.77;Pago;Nao;Lancamento manual
+DSP-0096;2026-06-01;2026-06-23;2026-06-23;Outros;Hospital parceiro;Outros;Cartao de credito;417.44;417.44;Pago;Nao;Lancamento manual
+DSP-0097;2026-07-01;2026-07-02;2026-07-02;Outros;Fornecedor local;Outros;PIX;1093.08;1093.08;Pago;Nao;Lancamento manual
+DSP-0098;2026-02-01;2026-02-23;2026-02-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;629.17;629.17;Pago;Nao;Lancamento manual
+DSP-0099;2026-06-01;2026-06-08;2026-06-08;Reembolso;Diversos;Reembolso;Cartao de credito;1693.51;1693.51;Pago;Nao;Lancamento manual
+DSP-0100;2026-02-01;2026-02-17;2026-02-17;Materiais medicos;Diversos;Materiais medicos;Boleto;490.17;490.17;Pago;Nao;Lancamento manual
+DSP-0101;2026-05-01;2026-05-20;2026-05-20;Cursos e congressos;MedSupply;Cursos e congressos;Cartao de credito;1223.06;1223.06;Pago;Nao;Lancamento manual
+DSP-0102;2026-02-01;2026-02-16;2026-02-16;Reembolso;MedSupply;Reembolso;Cartao de credito;359.8;359.8;Pago;Nao;Lancamento manual
+DSP-0103;2026-07-01;2026-07-28;2026-07-28;Estacionamento;Prestador local;Estacionamento;Cartao de credito;1585.71;1585.71;Pago;Nao;Lancamento manual
+DSP-0104;2026-07-01;2026-07-06;2026-07-06;Manutencao;Prestador local;Manutencao;PIX;502.01;502.01;Pago;Nao;Lancamento manual
+DSP-0105;2026-03-01;2026-03-18;2026-03-18;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;1574.8;1574.8;Pago;Nao;Lancamento manual
+DSP-0106;2026-06-01;2026-06-10;2026-06-10;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;541.53;541.53;Pago;Nao;Lancamento manual
+DSP-0107;2026-05-01;2026-05-06;2026-05-06;Reembolso;MedSupply;Reembolso;Boleto;594.33;594.33;Pago;Nao;Lancamento manual
+DSP-0108;2026-07-01;2026-07-27;;Manutencao;Hospital parceiro;Manutencao;PIX;1020.21;0;Pendente;Nao;Lancamento manual
+DSP-0109;2026-04-01;2026-04-09;2026-04-09;Manutencao;MedSupply;Manutencao;PIX;140.77;140.77;Pago;Nao;Lancamento manual
+DSP-0110;2026-07-01;2026-07-20;2026-07-20;Estacionamento;Fornecedor local;Estacionamento;Boleto;332.04;332.04;Pago;Nao;Lancamento manual
+DSP-0111;2026-02-01;2026-02-16;2026-02-16;Cursos e congressos;Diversos;Cursos e congressos;Boleto;670.69;670.69;Pago;Nao;Lancamento manual
+DSP-0112;2026-07-01;2026-07-15;2026-07-15;Cursos e congressos;MedSupply;Cursos e congressos;PIX;242.42;242.42;Pago;Nao;Lancamento manual
+DSP-0113;2026-06-01;2026-06-05;2026-06-05;Materiais medicos;Prestador local;Materiais medicos;PIX;402.55;402.55;Pago;Nao;Lancamento manual
+DSP-0114;2026-04-01;2026-04-02;2026-04-02;Outros;Prestador local;Outros;Cartao de credito;937.83;937.83;Pago;Nao;Lancamento manual
+DSP-0115;2026-04-01;2026-04-17;2026-04-17;Reembolso;Fornecedor local;Reembolso;Cartao de credito;1796.5;1796.5;Pago;Nao;Lancamento manual
+DSP-0116;2026-04-01;2026-04-07;2026-04-07;Cursos e congressos;MedSupply;Cursos e congressos;Boleto;1660.33;1660.33;Pago;Nao;Lancamento manual
+DSP-0117;2026-03-01;2026-03-06;2026-03-06;Estacionamento;Fornecedor local;Estacionamento;Boleto;90.56;90.56;Pago;Nao;Lancamento manual
+DSP-0118;2026-06-01;2026-06-15;2026-06-15;Reembolso;Fornecedor local;Reembolso;Boleto;1675.66;1675.66;Pago;Nao;Lancamento manual
+DSP-0119;2026-03-01;2026-03-27;2026-03-27;Materiais medicos;Hospital parceiro;Materiais medicos;Boleto;187.27;187.27;Pago;Nao;Lancamento manual
+DSP-0120;2026-05-01;2026-05-07;2026-05-07;Reembolso;Prestador local;Reembolso;PIX;1199.8;1199.8;Pago;Nao;Lancamento manual
+DSP-0121;2026-07-01;2026-07-13;2026-07-13;Estacionamento;Diversos;Estacionamento;PIX;1707.72;1707.72;Pago;Nao;Lancamento manual
+DSP-0122;2026-04-01;2026-04-17;2026-04-17;Materiais medicos;Prestador local;Materiais medicos;Boleto;1451.73;1451.73;Pago;Nao;Lancamento manual
+DSP-0123;2026-02-01;2026-02-20;2026-02-20;Outros;Diversos;Outros;Boleto;169.12;169.12;Pago;Nao;Lancamento manual
+DSP-0124;2026-03-01;2026-03-05;2026-03-05;Cursos e congressos;MedSupply;Cursos e congressos;Boleto;492.81;492.81;Pago;Nao;Lancamento manual
+DSP-0125;2026-03-01;2026-03-04;2026-03-04;Materiais medicos;MedSupply;Materiais medicos;Boleto;1540.87;1540.87;Pago;Nao;Lancamento manual
+DSP-0126;2026-06-01;2026-06-25;2026-06-25;Estacionamento;MedSupply;Estacionamento;PIX;1180.78;1180.78;Pago;Nao;Lancamento manual
+DSP-0127;2026-05-01;2026-05-19;2026-05-19;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;1450.93;1450.93;Pago;Nao;Lancamento manual
+DSP-0128;2026-03-01;2026-03-19;2026-03-19;Estacionamento;Prestador local;Estacionamento;Cartao de credito;1212.99;1212.99;Pago;Nao;Lancamento manual
+DSP-0129;2026-04-01;2026-04-14;2026-04-14;Cursos e congressos;Hospital parceiro;Cursos e congressos;Boleto;826.75;826.75;Pago;Nao;Lancamento manual
+DSP-0130;2026-05-01;2026-05-07;2026-05-07;Reembolso;Fornecedor local;Reembolso;Boleto;1098.6;1098.6;Pago;Nao;Lancamento manual
+DSP-0131;2026-06-01;2026-06-12;2026-06-12;Reembolso;Hospital parceiro;Reembolso;PIX;372.05;372.05;Pago;Nao;Lancamento manual
+DSP-0132;2026-02-01;2026-02-16;2026-02-16;Reembolso;Hospital parceiro;Reembolso;Cartao de credito;644.76;644.76;Pago;Nao;Lancamento manual
+DSP-0133;2026-04-01;2026-04-22;2026-04-22;Outros;MedSupply;Outros;Boleto;1249.35;1249.35;Pago;Nao;Lancamento manual
+DSP-0134;2026-03-01;2026-03-03;2026-03-03;Estacionamento;Fornecedor local;Estacionamento;Boleto;866.72;866.72;Pago;Nao;Lancamento manual

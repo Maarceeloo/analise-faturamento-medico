@@ -1,0 +1,15 @@
+# Ambiente local e arquivos temporarios
+logs/
+*.log
+*.lock
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.bak
+*.bacpac
+.ipynb_checkpoints/
+data/entrada/
+data/teste_incremental_isolado/
+.DS_Store
+Thumbs.db

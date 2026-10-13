@@ -1,0 +1,23 @@
+Substituir APENAS o código das consultas Despesas e Contas_Futuras no Editor Avançado.
+Isso mantém os nomes das consultas e as colunas esperadas pelos visuais existentes.
+
+CONSULTA: Despesas
+let
+    Fonte = Sql.Database("PC03", "Projeto_Faturamento_Medico"),
+    Despesas_SQL = Fonte{[Schema="v2",Item="Despesas"]}[Data]
+in
+    Despesas_SQL
+
+CONSULTA: Contas_Futuras
+let
+    Fonte = Sql.Database("PC03", "Projeto_Faturamento_Medico"),
+    Contas_Futuras_SQL = Fonte{[Schema="v2",Item="Contas_Futuras"]}[Data]
+in
+    Contas_Futuras_SQL
+
+ATENÇÃO:
+- Salve uma cópia do PBIX antes da alteração.
+- Não altere as consultas v2 de faturamento/glosas nem os relacionamentos já validados.
+- Calendario[Date] deve relacionar-se à data adequada para cada indicador: competência, pagamento ou vencimento.
+- As medidas antigas de 2026 não ficam automaticamente corretas apenas por mudar a fonte.
+- Contas_Futuras é uma view de pendências esperadas em 2025, não previsão de datas futuras a partir de hoje.

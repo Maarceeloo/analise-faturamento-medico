@@ -1,0 +1,266 @@
+﻿id_despesa;data_competencia;data_vencimento;data_pagamento;categoria;fornecedor;descricao;forma_pagamento;valor_previsto_rs;valor_pago_rs;status;recorrente;observacao
+DSP25-00001;2025-01-01;2025-01-20;2025-01-20;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00002;2025-01-01;2025-01-15;2025-01-16;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00003;2025-01-01;2025-01-10;2025-01-11;Contabilidade;Contabilize Clinicas;Contabilidade;Cartao de credito;650;650;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00004;2025-01-01;2025-01-28;2025-01-26;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00005;2025-01-01;2025-01-25;2025-01-28;Internet e telefone;Vivo Empresas;Internet e telefone;Cartao de credito;280;280;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00006;2025-01-01;2025-01-15;2025-01-15;Energia eletrica;Cemig;Energia eletrica;PIX;536.54;536.54;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00007;2025-01-01;2025-01-15;2025-01-15;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;mês 01 simulado com referência 02/2026
+DSP25-00008;2025-01-01;2025-01-15;2025-01-15;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;941.92;941.92;Pago;Nao;mês 01 simulado com referência 02/2026
+DSP25-00009;2025-01-01;2025-01-10;2025-01-13;Impostos;Prefeitura / Receita;Impostos;PIX;2151.8;2151.8;Pago;Nao;mês 01 simulado com referência 02/2026
+DSP25-00010;2025-01-01;2025-01-28;2025-01-26;Manutencao;Prestador local;Manutencao;Debito automatico;486.16;486.16;Pago;Nao;mês 01 simulado com referência 02/2026
+DSP25-00011;2025-01-01;2025-01-15;2025-01-13;Taxas bancarias;Banco;Taxas bancarias;Cartao de credito;180;180;Pago;Nao;mês 01 simulado com referência 02/2026
+DSP25-00012;2025-01-01;2025-01-04;2025-01-04;Cursos e congressos;Prestador local;Cursos e congressos;Boleto;1672.78;1672.78;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00013;2025-01-01;2025-01-24;2025-01-24;Estacionamento;Diversos;Estacionamento;Cartao de credito;783.63;783.63;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00014;2025-01-01;2025-01-09;2025-01-09;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;1665.06;1665.06;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00015;2025-01-01;2025-01-04;2025-01-04;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;278.77;278.77;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00016;2025-01-01;2025-01-23;2025-01-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;629.17;629.17;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00017;2025-01-01;2025-01-17;2025-01-17;Materiais medicos;Diversos;Materiais medicos;Boleto;490.17;490.17;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00018;2025-01-01;2025-01-16;2025-01-16;Reembolso;MedSupply;Reembolso;Cartao de credito;359.8;359.8;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00019;2025-01-01;2025-01-16;2025-01-16;Cursos e congressos;Diversos;Cursos e congressos;Boleto;670.69;670.69;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00020;2025-01-01;2025-01-20;2025-01-20;Outros;Diversos;Outros;Boleto;169.12;169.12;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00021;2025-01-01;2025-01-16;2025-01-16;Reembolso;Hospital parceiro;Reembolso;Cartao de credito;644.76;644.76;Pago;Nao;Lancamento manual | mês 01 simulado com referência 02/2026
+DSP25-00022;2025-02-01;2025-02-20;2025-02-20;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;convertido da referência 2026
+DSP25-00023;2025-02-01;2025-02-15;2025-02-16;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;convertido da referência 2026
+DSP25-00024;2025-02-01;2025-02-10;2025-02-11;Contabilidade;Contabilize Clinicas;Contabilidade;Cartao de credito;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00025;2025-02-01;2025-02-28;2025-02-26;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;convertido da referência 2026
+DSP25-00026;2025-02-01;2025-02-25;2025-02-28;Internet e telefone;Vivo Empresas;Internet e telefone;Cartao de credito;280;280;Pago;Sim;convertido da referência 2026
+DSP25-00027;2025-02-01;2025-02-15;2025-02-15;Energia eletrica;Cemig;Energia eletrica;PIX;536.54;536.54;Pago;Sim;convertido da referência 2026
+DSP25-00028;2025-02-01;2025-02-15;2025-02-15;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00029;2025-02-01;2025-02-15;2025-02-15;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;941.92;941.92;Pago;Nao;convertido da referência 2026
+DSP25-00030;2025-02-01;2025-02-10;2025-02-13;Impostos;Prefeitura / Receita;Impostos;PIX;2151.8;2151.8;Pago;Nao;convertido da referência 2026
+DSP25-00031;2025-02-01;2025-02-28;2025-02-26;Manutencao;Prestador local;Manutencao;Debito automatico;486.16;486.16;Pago;Nao;convertido da referência 2026
+DSP25-00032;2025-02-01;2025-02-15;2025-02-13;Taxas bancarias;Banco;Taxas bancarias;Cartao de credito;180;180;Pago;Nao;convertido da referência 2026
+DSP25-00033;2025-02-01;2025-02-04;2025-02-04;Cursos e congressos;Prestador local;Cursos e congressos;Boleto;1672.78;1672.78;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00034;2025-02-01;2025-02-24;2025-02-24;Estacionamento;Diversos;Estacionamento;Cartao de credito;783.63;783.63;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00035;2025-02-01;2025-02-09;2025-02-09;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;1665.06;1665.06;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00036;2025-02-01;2025-02-04;2025-02-04;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;278.77;278.77;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00037;2025-02-01;2025-02-23;2025-02-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;629.17;629.17;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00038;2025-02-01;2025-02-17;2025-02-17;Materiais medicos;Diversos;Materiais medicos;Boleto;490.17;490.17;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00039;2025-02-01;2025-02-16;2025-02-16;Reembolso;MedSupply;Reembolso;Cartao de credito;359.8;359.8;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00040;2025-02-01;2025-02-16;2025-02-16;Cursos e congressos;Diversos;Cursos e congressos;Boleto;670.69;670.69;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00041;2025-02-01;2025-02-20;2025-02-20;Outros;Diversos;Outros;Boleto;169.12;169.12;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00042;2025-02-01;2025-02-16;2025-02-16;Reembolso;Hospital parceiro;Reembolso;Cartao de credito;644.76;644.76;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00043;2025-03-01;2025-03-10;2025-03-10;Aluguel;Imobiliaria Centro Medico;Aluguel;Cartao de credito;5200;5200;Pago;Sim;convertido da referência 2026
+DSP25-00044;2025-03-01;2025-03-10;2025-03-08;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;convertido da referência 2026
+DSP25-00045;2025-03-01;2025-03-08;2025-03-08;Contabilidade;Contabilize Clinicas;Contabilidade;Debito automatico;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00046;2025-03-01;2025-03-20;2025-03-18;Software medico;MedSystem;Software medico;PIX;399;399;Pago;Sim;convertido da referência 2026
+DSP25-00047;2025-03-01;2025-03-28;2025-03-28;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;convertido da referência 2026
+DSP25-00048;2025-03-01;2025-03-10;2025-03-13;Energia eletrica;Cemig;Energia eletrica;Debito automatico;481.44;481.44;Pago;Sim;convertido da referência 2026
+DSP25-00049;2025-03-01;2025-03-05;2025-03-06;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00050;2025-03-01;2025-03-15;2025-03-16;Materiais medicos;MedSupply;Materiais medicos;PIX;856.79;856.79;Pago;Nao;convertido da referência 2026
+DSP25-00051;2025-03-01;2025-03-10;2025-03-11;Impostos;Prefeitura / Receita;Impostos;Debito automatico;2356.77;2356.77;Pago;Nao;convertido da referência 2026
+DSP25-00052;2025-03-01;2025-03-28;2025-03-29;Marketing;Agencia Saude Digital;Marketing;PIX;600;600;Pago;Nao;convertido da referência 2026
+DSP25-00053;2025-03-01;2025-03-08;2025-03-11;Manutencao;Prestador local;Manutencao;Debito automatico;436.82;436.82;Pago;Nao;convertido da referência 2026
+DSP25-00054;2025-03-01;2025-03-08;2025-03-11;Taxas bancarias;Banco;Taxas bancarias;Debito automatico;180;180;Pago;Nao;convertido da referência 2026
+DSP25-00055;2025-03-01;2025-03-17;2025-03-17;Reembolso;Hospital parceiro;Reembolso;Boleto;1566.5;1566.5;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00056;2025-03-01;2025-03-05;2025-03-05;Manutencao;MedSupply;Manutencao;Boleto;566.98;566.98;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00057;2025-03-01;2025-03-02;2025-03-02;Cursos e congressos;Hospital parceiro;Cursos e congressos;Boleto;871.77;871.77;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00058;2025-03-01;2025-03-03;2025-03-03;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;321.98;321.98;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00059;2025-03-01;2025-03-19;2025-03-19;Reembolso;Prestador local;Reembolso;Boleto;1248.5;1248.5;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00060;2025-03-01;2025-03-16;2025-03-16;Materiais medicos;Hospital parceiro;Materiais medicos;Boleto;1306.11;1306.11;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00061;2025-03-01;2025-03-18;2025-03-18;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;1574.8;1574.8;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00062;2025-03-01;2025-03-06;2025-03-06;Estacionamento;Fornecedor local;Estacionamento;Boleto;90.56;90.56;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00063;2025-03-01;2025-03-27;2025-03-27;Materiais medicos;Hospital parceiro;Materiais medicos;Boleto;187.27;187.27;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00064;2025-03-01;2025-03-05;2025-03-05;Cursos e congressos;MedSupply;Cursos e congressos;Boleto;492.81;492.81;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00065;2025-03-01;2025-03-04;2025-03-04;Materiais medicos;MedSupply;Materiais medicos;Boleto;1540.87;1540.87;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00066;2025-03-01;2025-03-19;2025-03-19;Estacionamento;Prestador local;Estacionamento;Cartao de credito;1212.99;1212.99;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00067;2025-03-01;2025-03-03;2025-03-03;Estacionamento;Fornecedor local;Estacionamento;Boleto;866.72;866.72;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00068;2025-04-01;2025-04-10;2025-04-11;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;convertido da referência 2026
+DSP25-00069;2025-04-01;2025-04-15;2025-04-13;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;convertido da referência 2026
+DSP25-00070;2025-04-01;2025-04-10;2025-04-10;Contabilidade;Contabilize Clinicas;Contabilidade;PIX;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00071;2025-04-01;2025-04-10;2025-04-13;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;convertido da referência 2026
+DSP25-00072;2025-04-01;2025-04-28;2025-04-28;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;convertido da referência 2026
+DSP25-00073;2025-04-01;2025-04-25;2025-04-23;Energia eletrica;Cemig;Energia eletrica;Debito automatico;576.12;576.12;Pago;Sim;convertido da referência 2026
+DSP25-00074;2025-04-01;2025-04-10;2025-04-08;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00075;2025-04-01;2025-04-10;2025-04-10;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;985.34;985.34;Pago;Nao;convertido da referência 2026
+DSP25-00076;2025-04-01;2025-04-15;2025-04-15;Impostos;Prefeitura / Receita;Impostos;Boleto;2541.92;2541.92;Pago;Nao;convertido da referência 2026
+DSP25-00077;2025-04-01;2025-04-10;2025-04-13;Marketing;Agencia Saude Digital;Marketing;Cartao de credito;600;600;Pago;Nao;convertido da referência 2026
+DSP25-00078;2025-04-01;2025-04-20;2025-04-18;Manutencao;Prestador local;Manutencao;Boleto;417.94;417.94;Pago;Nao;convertido da referência 2026
+DSP25-00079;2025-04-01;2025-04-20;2025-04-21;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;convertido da referência 2026
+DSP25-00080;2025-04-01;2025-04-08;2025-04-08;Outros;MedSupply;Outros;PIX;823.18;823.18;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00081;2025-04-01;2025-04-23;2025-04-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;1754.59;1754.59;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00082;2025-04-01;2025-04-02;2025-04-02;Materiais medicos;Hospital parceiro;Materiais medicos;Cartao de credito;748.82;748.82;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00083;2025-04-01;2025-04-09;2025-04-09;Manutencao;MedSupply;Manutencao;PIX;140.77;140.77;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00084;2025-04-01;2025-04-02;2025-04-02;Outros;Prestador local;Outros;Cartao de credito;937.83;937.83;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00085;2025-04-01;2025-04-17;2025-04-17;Reembolso;Fornecedor local;Reembolso;Cartao de credito;1796.5;1796.5;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00086;2025-04-01;2025-04-07;2025-04-07;Cursos e congressos;MedSupply;Cursos e congressos;Boleto;1660.33;1660.33;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00087;2025-04-01;2025-04-17;2025-04-17;Materiais medicos;Prestador local;Materiais medicos;Boleto;1451.73;1451.73;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00088;2025-04-01;2025-04-14;2025-04-14;Cursos e congressos;Hospital parceiro;Cursos e congressos;Boleto;826.75;826.75;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00089;2025-04-01;2025-04-22;2025-04-22;Outros;MedSupply;Outros;Boleto;1249.35;1249.35;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00090;2025-05-01;2025-05-25;2025-05-26;Aluguel;Imobiliaria Centro Medico;Aluguel;Debito automatico;5200;5200;Pago;Sim;convertido da referência 2026
+DSP25-00091;2025-05-01;2025-05-25;2025-05-28;Secretaria;Mariana Souza;Secretaria;Cartao de credito;3200;3200;Pago;Sim;convertido da referência 2026
+DSP25-00092;2025-05-01;2025-05-20;2025-05-18;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00093;2025-05-01;2025-05-10;2025-05-11;Software medico;MedSystem;Software medico;Boleto;399;399;Pago;Sim;convertido da referência 2026
+DSP25-00094;2025-05-01;2025-05-08;2025-05-08;Internet e telefone;Vivo Empresas;Internet e telefone;Debito automatico;280;280;Pago;Sim;convertido da referência 2026
+DSP25-00095;2025-05-01;2025-05-28;2025-05-28;Energia eletrica;Cemig;Energia eletrica;PIX;518.73;518.73;Pago;Sim;convertido da referência 2026
+DSP25-00096;2025-05-01;2025-05-25;2025-05-25;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00097;2025-05-01;2025-05-10;2025-05-10;Materiais medicos;MedSupply;Materiais medicos;Boleto;948.99;948.99;Pago;Nao;convertido da referência 2026
+DSP25-00098;2025-05-01;2025-05-15;2025-05-15;Impostos;Prefeitura / Receita;Impostos;Boleto;2266.54;2266.54;Pago;Nao;convertido da referência 2026
+DSP25-00099;2025-05-01;2025-05-10;2025-05-13;Manutencao;Prestador local;Manutencao;Cartao de credito;452.4;452.4;Pago;Nao;convertido da referência 2026
+DSP25-00100;2025-05-01;2025-05-15;2025-05-13;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;convertido da referência 2026
+DSP25-00101;2025-05-01;2025-05-26;2025-05-26;Outros;Fornecedor local;Outros;Boleto;758.04;758.04;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00102;2025-05-01;2025-05-28;2025-05-28;Cursos e congressos;Fornecedor local;Cursos e congressos;Cartao de credito;1265.09;1265.09;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00103;2025-05-01;2025-05-13;2025-05-13;Manutencao;Prestador local;Manutencao;PIX;193.12;193.12;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00104;2025-05-01;2025-05-05;2025-05-05;Manutencao;Prestador local;Manutencao;PIX;201.3;201.3;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00105;2025-05-01;2025-05-13;2025-05-13;Outros;Hospital parceiro;Outros;PIX;1233.47;1233.47;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00106;2025-05-01;2025-05-20;2025-05-20;Cursos e congressos;MedSupply;Cursos e congressos;Cartao de credito;1223.06;1223.06;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00107;2025-05-01;2025-05-06;2025-05-06;Reembolso;MedSupply;Reembolso;Boleto;594.33;594.33;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00108;2025-05-01;2025-05-07;2025-05-07;Reembolso;Prestador local;Reembolso;PIX;1199.8;1199.8;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00109;2025-05-01;2025-05-19;2025-05-19;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;1450.93;1450.93;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00110;2025-05-01;2025-05-07;2025-05-07;Reembolso;Fornecedor local;Reembolso;Boleto;1098.6;1098.6;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00111;2025-06-01;2025-06-08;2025-06-08;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;convertido da referência 2026
+DSP25-00112;2025-06-01;2025-06-05;2025-06-05;Secretaria;Mariana Souza;Secretaria;Debito automatico;3200;3200;Pago;Sim;convertido da referência 2026
+DSP25-00113;2025-06-01;2025-06-25;2025-06-28;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00114;2025-06-01;2025-06-25;2025-06-23;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;convertido da referência 2026
+DSP25-00115;2025-06-01;2025-06-28;2025-06-26;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;convertido da referência 2026
+DSP25-00116;2025-06-01;2025-06-28;2025-06-28;Energia eletrica;Cemig;Energia eletrica;Debito automatico;583.47;583.47;Pago;Sim;convertido da referência 2026
+DSP25-00117;2025-06-01;2025-06-28;2025-06-26;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00118;2025-06-01;2025-06-25;2025-06-23;Materiais medicos;MedSupply;Materiais medicos;Cartao de credito;951.76;951.76;Pago;Nao;convertido da referência 2026
+DSP25-00119;2025-06-01;2025-06-28;2025-06-28;Impostos;Prefeitura / Receita;Impostos;Boleto;2581.3;2581.3;Pago;Nao;convertido da referência 2026
+DSP25-00120;2025-06-01;2025-06-05;2025-06-08;Manutencao;Prestador local;Manutencao;Debito automatico;459.42;459.42;Pago;Nao;convertido da referência 2026
+DSP25-00121;2025-06-01;2025-06-15;2025-06-13;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;convertido da referência 2026
+DSP25-00122;2025-06-01;2025-06-24;2025-06-24;Manutencao;Prestador local;Manutencao;Cartao de credito;1147.66;1147.66;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00123;2025-06-01;2025-06-22;2025-06-22;Cursos e congressos;Diversos;Cursos e congressos;PIX;1703.05;1703.05;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00124;2025-06-01;2025-06-26;2025-06-26;Manutencao;Prestador local;Manutencao;PIX;95.5;95.5;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00125;2025-06-01;2025-06-23;2025-06-23;Outros;Hospital parceiro;Outros;Cartao de credito;417.44;417.44;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00126;2025-06-01;2025-06-08;2025-06-08;Reembolso;Diversos;Reembolso;Cartao de credito;1693.51;1693.51;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00127;2025-06-01;2025-06-10;2025-06-10;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;541.53;541.53;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00128;2025-06-01;2025-06-05;2025-06-05;Materiais medicos;Prestador local;Materiais medicos;PIX;402.55;402.55;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00129;2025-06-01;2025-06-15;2025-06-15;Reembolso;Fornecedor local;Reembolso;Boleto;1675.66;1675.66;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00130;2025-06-01;2025-06-25;2025-06-25;Estacionamento;MedSupply;Estacionamento;PIX;1180.78;1180.78;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00131;2025-06-01;2025-06-12;2025-06-12;Reembolso;Hospital parceiro;Reembolso;PIX;372.05;372.05;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00132;2025-07-01;2025-07-20;2025-07-20;Aluguel;Imobiliaria Centro Medico;Aluguel;Debito automatico;5200;5200;Pago;Sim;convertido da referência 2026
+DSP25-00133;2025-07-01;2025-07-28;2025-07-29;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;convertido da referência 2026
+DSP25-00134;2025-07-01;2025-07-15;2025-07-13;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00135;2025-07-01;2025-07-08;;Software medico;MedSystem;Software medico;Cartao de credito;399;0;Pendente;Sim;convertido da referência 2026
+DSP25-00136;2025-07-01;2025-07-15;2025-07-18;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;convertido da referência 2026
+DSP25-00137;2025-07-01;2025-07-15;;Energia eletrica;Cemig;Energia eletrica;PIX;532.5;0;Pendente;Sim;convertido da referência 2026
+DSP25-00138;2025-07-01;2025-07-10;2025-07-11;Limpeza;LimpaBem;Limpeza;Boleto;650;650;Pago;Sim;convertido da referência 2026
+DSP25-00139;2025-07-01;2025-07-28;2025-07-28;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;1019.68;1019.68;Pago;Nao;convertido da referência 2026
+DSP25-00140;2025-07-01;2025-07-05;;Impostos;Prefeitura / Receita;Impostos;PIX;2530.22;0;Pendente;Nao;convertido da referência 2026
+DSP25-00141;2025-07-01;2025-07-25;;Marketing;Agencia Saude Digital;Marketing;PIX;600;0;Pendente;Nao;convertido da referência 2026
+DSP25-00142;2025-07-01;2025-07-28;2025-07-29;Manutencao;Prestador local;Manutencao;Debito automatico;477.6;477.6;Pago;Nao;convertido da referência 2026
+DSP25-00143;2025-07-01;2025-07-25;;Taxas bancarias;Banco;Taxas bancarias;Debito automatico;180;0;Pendente;Nao;convertido da referência 2026
+DSP25-00144;2025-07-01;2025-07-02;2025-07-02;Materiais medicos;Prestador local;Materiais medicos;Cartao de credito;1491.82;1491.82;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00145;2025-07-01;2025-07-22;2025-07-22;Outros;Diversos;Outros;Boleto;279.31;279.31;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00146;2025-07-01;2025-07-28;2025-07-28;Materiais medicos;Prestador local;Materiais medicos;Boleto;438.97;438.97;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00147;2025-07-01;2025-07-28;;Cursos e congressos;Diversos;Cursos e congressos;PIX;273.5;0;Pendente;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00148;2025-07-01;2025-07-13;2025-07-13;Manutencao;Hospital parceiro;Manutencao;PIX;693.71;693.71;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00149;2025-07-01;2025-07-02;2025-07-02;Outros;Fornecedor local;Outros;PIX;1093.08;1093.08;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00150;2025-07-01;2025-07-28;2025-07-28;Estacionamento;Prestador local;Estacionamento;Cartao de credito;1585.71;1585.71;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00151;2025-07-01;2025-07-06;2025-07-06;Manutencao;Prestador local;Manutencao;PIX;502.01;502.01;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00152;2025-07-01;2025-07-27;;Manutencao;Hospital parceiro;Manutencao;PIX;1020.21;0;Pendente;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00153;2025-07-01;2025-07-20;2025-07-20;Estacionamento;Fornecedor local;Estacionamento;Boleto;332.04;332.04;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00154;2025-07-01;2025-07-15;2025-07-15;Cursos e congressos;MedSupply;Cursos e congressos;PIX;242.42;242.42;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00155;2025-07-01;2025-07-13;2025-07-13;Estacionamento;Diversos;Estacionamento;PIX;1707.72;1707.72;Pago;Nao;Lancamento manual | convertido da referência 2026
+DSP25-00156;2025-08-01;2025-08-20;2025-08-20;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00157;2025-08-01;2025-08-15;2025-08-16;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00158;2025-08-01;2025-08-10;2025-08-11;Contabilidade;Contabilize Clinicas;Contabilidade;Cartao de credito;650;650;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00159;2025-08-01;2025-08-28;2025-08-26;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00160;2025-08-01;2025-08-25;2025-08-28;Internet e telefone;Vivo Empresas;Internet e telefone;Cartao de credito;280;280;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00161;2025-08-01;2025-08-15;2025-08-15;Energia eletrica;Cemig;Energia eletrica;PIX;536.54;536.54;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00162;2025-08-01;2025-08-15;2025-08-15;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;mês 08 simulado com referência 02/2026
+DSP25-00163;2025-08-01;2025-08-15;2025-08-15;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;941.92;941.92;Pago;Nao;mês 08 simulado com referência 02/2026
+DSP25-00164;2025-08-01;2025-08-10;2025-08-13;Impostos;Prefeitura / Receita;Impostos;PIX;2151.8;2151.8;Pago;Nao;mês 08 simulado com referência 02/2026
+DSP25-00165;2025-08-01;2025-08-28;2025-08-26;Manutencao;Prestador local;Manutencao;Debito automatico;486.16;486.16;Pago;Nao;mês 08 simulado com referência 02/2026
+DSP25-00166;2025-08-01;2025-08-15;2025-08-13;Taxas bancarias;Banco;Taxas bancarias;Cartao de credito;180;180;Pago;Nao;mês 08 simulado com referência 02/2026
+DSP25-00167;2025-08-01;2025-08-04;2025-08-04;Cursos e congressos;Prestador local;Cursos e congressos;Boleto;1672.78;1672.78;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00168;2025-08-01;2025-08-24;2025-08-24;Estacionamento;Diversos;Estacionamento;Cartao de credito;783.63;783.63;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00169;2025-08-01;2025-08-09;2025-08-09;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;1665.06;1665.06;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00170;2025-08-01;2025-08-04;2025-08-04;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;278.77;278.77;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00171;2025-08-01;2025-08-23;2025-08-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;629.17;629.17;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00172;2025-08-01;2025-08-17;2025-08-17;Materiais medicos;Diversos;Materiais medicos;Boleto;490.17;490.17;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00173;2025-08-01;2025-08-16;2025-08-16;Reembolso;MedSupply;Reembolso;Cartao de credito;359.8;359.8;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00174;2025-08-01;2025-08-16;2025-08-16;Cursos e congressos;Diversos;Cursos e congressos;Boleto;670.69;670.69;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00175;2025-08-01;2025-08-20;2025-08-20;Outros;Diversos;Outros;Boleto;169.12;169.12;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00176;2025-08-01;2025-08-16;2025-08-16;Reembolso;Hospital parceiro;Reembolso;Cartao de credito;644.76;644.76;Pago;Nao;Lancamento manual | mês 08 simulado com referência 02/2026
+DSP25-00177;2025-09-01;2025-09-10;2025-09-10;Aluguel;Imobiliaria Centro Medico;Aluguel;Cartao de credito;5200;5200;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00178;2025-09-01;2025-09-10;2025-09-08;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00179;2025-09-01;2025-09-08;2025-09-08;Contabilidade;Contabilize Clinicas;Contabilidade;Debito automatico;650;650;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00180;2025-09-01;2025-09-20;2025-09-18;Software medico;MedSystem;Software medico;PIX;399;399;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00181;2025-09-01;2025-09-28;2025-09-28;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00182;2025-09-01;2025-09-10;2025-09-13;Energia eletrica;Cemig;Energia eletrica;Debito automatico;481.44;481.44;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00183;2025-09-01;2025-09-05;2025-09-06;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;mês 09 simulado com referência 03/2026
+DSP25-00184;2025-09-01;2025-09-15;2025-09-16;Materiais medicos;MedSupply;Materiais medicos;PIX;856.79;856.79;Pago;Nao;mês 09 simulado com referência 03/2026
+DSP25-00185;2025-09-01;2025-09-10;2025-09-11;Impostos;Prefeitura / Receita;Impostos;Debito automatico;2356.77;2356.77;Pago;Nao;mês 09 simulado com referência 03/2026
+DSP25-00186;2025-09-01;2025-09-28;2025-09-29;Marketing;Agencia Saude Digital;Marketing;PIX;600;600;Pago;Nao;mês 09 simulado com referência 03/2026
+DSP25-00187;2025-09-01;2025-09-08;2025-09-11;Manutencao;Prestador local;Manutencao;Debito automatico;436.82;436.82;Pago;Nao;mês 09 simulado com referência 03/2026
+DSP25-00188;2025-09-01;2025-09-08;2025-09-11;Taxas bancarias;Banco;Taxas bancarias;Debito automatico;180;180;Pago;Nao;mês 09 simulado com referência 03/2026
+DSP25-00189;2025-09-01;2025-09-17;2025-09-17;Reembolso;Hospital parceiro;Reembolso;Boleto;1566.5;1566.5;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00190;2025-09-01;2025-09-05;2025-09-05;Manutencao;MedSupply;Manutencao;Boleto;566.98;566.98;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00191;2025-09-01;2025-09-02;2025-09-02;Cursos e congressos;Hospital parceiro;Cursos e congressos;Boleto;871.77;871.77;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00192;2025-09-01;2025-09-03;2025-09-03;Materiais medicos;Diversos;Materiais medicos;Cartao de credito;321.98;321.98;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00193;2025-09-01;2025-09-19;2025-09-19;Reembolso;Prestador local;Reembolso;Boleto;1248.5;1248.5;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00194;2025-09-01;2025-09-16;2025-09-16;Materiais medicos;Hospital parceiro;Materiais medicos;Boleto;1306.11;1306.11;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00195;2025-09-01;2025-09-18;2025-09-18;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;1574.8;1574.8;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00196;2025-09-01;2025-09-06;2025-09-06;Estacionamento;Fornecedor local;Estacionamento;Boleto;90.56;90.56;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00197;2025-09-01;2025-09-27;2025-09-27;Materiais medicos;Hospital parceiro;Materiais medicos;Boleto;187.27;187.27;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00198;2025-09-01;2025-09-05;2025-09-05;Cursos e congressos;MedSupply;Cursos e congressos;Boleto;492.81;492.81;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00199;2025-09-01;2025-09-04;2025-09-04;Materiais medicos;MedSupply;Materiais medicos;Boleto;1540.87;1540.87;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00200;2025-09-01;2025-09-19;2025-09-19;Estacionamento;Prestador local;Estacionamento;Cartao de credito;1212.99;1212.99;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00201;2025-09-01;2025-09-03;2025-09-03;Estacionamento;Fornecedor local;Estacionamento;Boleto;866.72;866.72;Pago;Nao;Lancamento manual | mês 09 simulado com referência 03/2026
+DSP25-00202;2025-10-01;2025-10-10;2025-10-11;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00203;2025-10-01;2025-10-15;2025-10-13;Secretaria;Mariana Souza;Secretaria;Boleto;3200;3200;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00204;2025-10-01;2025-10-10;2025-10-10;Contabilidade;Contabilize Clinicas;Contabilidade;PIX;650;650;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00205;2025-10-01;2025-10-10;2025-10-13;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00206;2025-10-01;2025-10-28;2025-10-28;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00207;2025-10-01;2025-10-25;2025-10-23;Energia eletrica;Cemig;Energia eletrica;Debito automatico;576.12;576.12;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00208;2025-10-01;2025-10-10;2025-10-08;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;mês 10 simulado com referência 04/2026
+DSP25-00209;2025-10-01;2025-10-10;2025-10-10;Materiais medicos;MedSupply;Materiais medicos;Debito automatico;985.34;985.34;Pago;Nao;mês 10 simulado com referência 04/2026
+DSP25-00210;2025-10-01;2025-10-15;2025-10-15;Impostos;Prefeitura / Receita;Impostos;Boleto;2541.92;2541.92;Pago;Nao;mês 10 simulado com referência 04/2026
+DSP25-00211;2025-10-01;2025-10-10;2025-10-13;Marketing;Agencia Saude Digital;Marketing;Cartao de credito;600;600;Pago;Nao;mês 10 simulado com referência 04/2026
+DSP25-00212;2025-10-01;2025-10-20;2025-10-18;Manutencao;Prestador local;Manutencao;Boleto;417.94;417.94;Pago;Nao;mês 10 simulado com referência 04/2026
+DSP25-00213;2025-10-01;2025-10-20;2025-10-21;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;mês 10 simulado com referência 04/2026
+DSP25-00214;2025-10-01;2025-10-08;2025-10-08;Outros;MedSupply;Outros;PIX;823.18;823.18;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00215;2025-10-01;2025-10-23;2025-10-23;Materiais medicos;MedSupply;Materiais medicos;Boleto;1754.59;1754.59;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00216;2025-10-01;2025-10-02;2025-10-02;Materiais medicos;Hospital parceiro;Materiais medicos;Cartao de credito;748.82;748.82;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00217;2025-10-01;2025-10-09;2025-10-09;Manutencao;MedSupply;Manutencao;PIX;140.77;140.77;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00218;2025-10-01;2025-10-02;2025-10-02;Outros;Prestador local;Outros;Cartao de credito;937.83;937.83;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00219;2025-10-01;2025-10-17;2025-10-17;Reembolso;Fornecedor local;Reembolso;Cartao de credito;1796.5;1796.5;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00220;2025-10-01;2025-10-07;2025-10-07;Cursos e congressos;MedSupply;Cursos e congressos;Boleto;1660.33;1660.33;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00221;2025-10-01;2025-10-17;2025-10-17;Materiais medicos;Prestador local;Materiais medicos;Boleto;1451.73;1451.73;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00222;2025-10-01;2025-10-14;2025-10-14;Cursos e congressos;Hospital parceiro;Cursos e congressos;Boleto;826.75;826.75;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00223;2025-10-01;2025-10-22;2025-10-22;Outros;MedSupply;Outros;Boleto;1249.35;1249.35;Pago;Nao;Lancamento manual | mês 10 simulado com referência 04/2026
+DSP25-00224;2025-11-01;2025-11-25;2025-11-26;Aluguel;Imobiliaria Centro Medico;Aluguel;Debito automatico;5200;5200;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00225;2025-11-01;2025-11-25;2025-11-28;Secretaria;Mariana Souza;Secretaria;Cartao de credito;3200;3200;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00226;2025-11-01;2025-11-20;2025-11-18;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00227;2025-11-01;2025-11-10;2025-11-11;Software medico;MedSystem;Software medico;Boleto;399;399;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00228;2025-11-01;2025-11-08;2025-11-08;Internet e telefone;Vivo Empresas;Internet e telefone;Debito automatico;280;280;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00229;2025-11-01;2025-11-28;2025-11-28;Energia eletrica;Cemig;Energia eletrica;PIX;518.73;518.73;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00230;2025-11-01;2025-11-25;2025-11-25;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;mês 11 simulado com referência 05/2026
+DSP25-00231;2025-11-01;2025-11-10;2025-11-10;Materiais medicos;MedSupply;Materiais medicos;Boleto;948.99;948.99;Pago;Nao;mês 11 simulado com referência 05/2026
+DSP25-00232;2025-11-01;2025-11-15;2025-11-15;Impostos;Prefeitura / Receita;Impostos;Boleto;2266.54;2266.54;Pago;Nao;mês 11 simulado com referência 05/2026
+DSP25-00233;2025-11-01;2025-11-10;2025-11-13;Manutencao;Prestador local;Manutencao;Cartao de credito;452.4;452.4;Pago;Nao;mês 11 simulado com referência 05/2026
+DSP25-00234;2025-11-01;2025-11-15;2025-11-13;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;mês 11 simulado com referência 05/2026
+DSP25-00235;2025-11-01;2025-11-26;2025-11-26;Outros;Fornecedor local;Outros;Boleto;758.04;758.04;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00236;2025-11-01;2025-11-28;2025-11-28;Cursos e congressos;Fornecedor local;Cursos e congressos;Cartao de credito;1265.09;1265.09;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00237;2025-11-01;2025-11-13;2025-11-13;Manutencao;Prestador local;Manutencao;PIX;193.12;193.12;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00238;2025-11-01;2025-11-05;2025-11-05;Manutencao;Prestador local;Manutencao;PIX;201.3;201.3;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00239;2025-11-01;2025-11-13;2025-11-13;Outros;Hospital parceiro;Outros;PIX;1233.47;1233.47;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00240;2025-11-01;2025-11-20;2025-11-20;Cursos e congressos;MedSupply;Cursos e congressos;Cartao de credito;1223.06;1223.06;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00241;2025-11-01;2025-11-06;2025-11-06;Reembolso;MedSupply;Reembolso;Boleto;594.33;594.33;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00242;2025-11-01;2025-11-07;2025-11-07;Reembolso;Prestador local;Reembolso;PIX;1199.8;1199.8;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00243;2025-11-01;2025-11-19;2025-11-19;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;1450.93;1450.93;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00244;2025-11-01;2025-11-07;2025-11-07;Reembolso;Fornecedor local;Reembolso;Boleto;1098.6;1098.6;Pago;Nao;Lancamento manual | mês 11 simulado com referência 05/2026
+DSP25-00245;2025-12-01;2025-12-08;2025-12-08;Aluguel;Imobiliaria Centro Medico;Aluguel;Boleto;5200;5200;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00246;2025-12-01;2025-12-05;2025-12-05;Secretaria;Mariana Souza;Secretaria;Debito automatico;3200;3200;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00247;2025-12-01;2025-12-25;2025-12-28;Contabilidade;Contabilize Clinicas;Contabilidade;Boleto;650;650;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00248;2025-12-01;2025-12-25;2025-12-23;Software medico;MedSystem;Software medico;Cartao de credito;399;399;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00249;2025-12-01;2025-12-28;2025-12-26;Internet e telefone;Vivo Empresas;Internet e telefone;PIX;280;280;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00250;2025-12-01;2025-12-28;2025-12-28;Energia eletrica;Cemig;Energia eletrica;Debito automatico;583.47;583.47;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00251;2025-12-01;2025-12-28;2025-12-26;Limpeza;LimpaBem;Limpeza;Cartao de credito;650;650;Pago;Sim;mês 12 simulado com referência 06/2026
+DSP25-00252;2025-12-01;2025-12-25;2025-12-23;Materiais medicos;MedSupply;Materiais medicos;Cartao de credito;951.76;951.76;Pago;Nao;mês 12 simulado com referência 06/2026
+DSP25-00253;2025-12-01;2025-12-28;2025-12-28;Impostos;Prefeitura / Receita;Impostos;Boleto;2581.3;2581.3;Pago;Nao;mês 12 simulado com referência 06/2026
+DSP25-00254;2025-12-01;2025-12-05;2025-12-08;Manutencao;Prestador local;Manutencao;Debito automatico;459.42;459.42;Pago;Nao;mês 12 simulado com referência 06/2026
+DSP25-00255;2025-12-01;2025-12-15;2025-12-13;Taxas bancarias;Banco;Taxas bancarias;Boleto;180;180;Pago;Nao;mês 12 simulado com referência 06/2026
+DSP25-00256;2025-12-01;2025-12-24;2025-12-24;Manutencao;Prestador local;Manutencao;Cartao de credito;1147.66;1147.66;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00257;2025-12-01;2025-12-22;2025-12-22;Cursos e congressos;Diversos;Cursos e congressos;PIX;1703.05;1703.05;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00258;2025-12-01;2025-12-26;2025-12-26;Manutencao;Prestador local;Manutencao;PIX;95.5;95.5;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00259;2025-12-01;2025-12-23;2025-12-23;Outros;Hospital parceiro;Outros;Cartao de credito;417.44;417.44;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00260;2025-12-01;2025-12-08;2025-12-08;Reembolso;Diversos;Reembolso;Cartao de credito;1693.51;1693.51;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00261;2025-12-01;2025-12-10;2025-12-10;Cursos e congressos;Prestador local;Cursos e congressos;Cartao de credito;541.53;541.53;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00262;2025-12-01;2025-12-05;2025-12-05;Materiais medicos;Prestador local;Materiais medicos;PIX;402.55;402.55;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00263;2025-12-01;2025-12-15;2025-12-15;Reembolso;Fornecedor local;Reembolso;Boleto;1675.66;1675.66;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00264;2025-12-01;2025-12-25;2025-12-25;Estacionamento;MedSupply;Estacionamento;PIX;1180.78;1180.78;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026
+DSP25-00265;2025-12-01;2025-12-12;2025-12-12;Reembolso;Hospital parceiro;Reembolso;PIX;372.05;372.05;Pago;Nao;Lancamento manual | mês 12 simulado com referência 06/2026

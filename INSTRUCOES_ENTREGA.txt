@@ -1,0 +1,12 @@
+PACOTE ORGANIZADO PARA PORTFÓLIO — NÃO SUBSTITUI O PROJETO LOCAL
+
+1. Preserve a pasta original no computador; não copie este pacote sobre ela.
+2. Para GitHub, publique o conteúdo desta pasta (após conferir os arquivos .pbix e .pdf).
+3. O arquivo README.md já contém a apresentação do projeto.
+4. data/raw inclui CSVs sintéticos para reprodução. Revise antes de publicar; nunca publique dados reais, logs, backups ou credenciais.
+5. O agendamento local que já foi criado no Windows NÃO precisa ser reinstalado.
+6. A atualização automática do Power BI na nuvem NÃO está configurada.
+7. O projeto inclui scripts de IA já existentes, não uma nova IA criada nesta entrega.
+
+8. Pasta Excel: arquivo de consulta; a importacao Python continua usando CSV.
+9. Scripts automacao usam data/raw/2025 por padrao. Nao reinstale tarefa existente sem necessidade.

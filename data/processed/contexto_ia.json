@@ -1,0 +1,205 @@
+{
+  "projeto": "Análise inteligente de glosas médicas",
+  "observacao": "Base simulada para fins educacionais e de portfólio.",
+  "periodo": {
+    "inicio": "2026-02-02",
+    "fim": "2026-07-31"
+  },
+  "indicadores": {
+    "total_registros": 1290,
+    "total_apresentado": 276575.34,
+    "total_glosado": 9872.34,
+    "total_recuperado": 2332.42,
+    "total_pendente": 7539.92,
+    "taxa_glosa_percentual": 3.57
+  },
+  "principais_categorias": [
+    {
+      "categoria_glosa": "Código ou procedimento incompatível",
+      "quantidade_itens": 11,
+      "total_glosado": 1634.43,
+      "total_recuperado": 24.41,
+      "total_pendente": 1610.02
+    },
+    {
+      "categoria_glosa": "Autorização",
+      "quantidade_itens": 14,
+      "total_glosado": 1209.67,
+      "total_recuperado": 55.19,
+      "total_pendente": 1154.48
+    },
+    {
+      "categoria_glosa": "Documentação clínica",
+      "quantidade_itens": 12,
+      "total_glosado": 1090.02,
+      "total_recuperado": 32.0,
+      "total_pendente": 1058.02
+    },
+    {
+      "categoria_glosa": "Elegibilidade ou cadastro",
+      "quantidade_itens": 11,
+      "total_glosado": 855.48,
+      "total_recuperado": 236.26,
+      "total_pendente": 619.22
+    },
+    {
+      "categoria_glosa": "Valor contratual",
+      "quantidade_itens": 11,
+      "total_glosado": 810.5,
+      "total_recuperado": 40.2,
+      "total_pendente": 770.3
+    }
+  ],
+  "resumo_prioridades": [
+    {
+      "prioridade": "Alta",
+      "quantidade_itens": 19,
+      "total_pendente": 3798.54,
+      "score_medio": 85.44
+    },
+    {
+      "prioridade": "Média",
+      "quantidade_itens": 28,
+      "total_pendente": 2489.77,
+      "score_medio": 61.3
+    },
+    {
+      "prioridade": "Baixa",
+      "quantidade_itens": 41,
+      "total_pendente": 1251.61,
+      "score_medio": 32.5
+    }
+  ],
+  "glosas_prioritarias": [
+    {
+      "operadora": "Bradesco Saúde",
+      "numero_guia_prestador": "73000007",
+      "data_atendimento": "2026-02-17T00:00:00.000",
+      "descricao_procedimento": "Punção articular diagnóstica ou terapêutica",
+      "categoria_glosa": "Código ou procedimento incompatível",
+      "status_recurso": "NÃO RECORRIDA",
+      "valor_glosado": 336.37,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 336.37,
+      "score_prioridade": 98.4,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "Bradesco Saúde",
+      "numero_guia_prestador": "73000504",
+      "data_atendimento": "2026-07-27T00:00:00.000",
+      "descricao_procedimento": "Infiltração articular",
+      "categoria_glosa": "Documentação clínica",
+      "status_recurso": "NÃO RECORRIDA",
+      "valor_glosado": 225.34,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 225.34,
+      "score_prioridade": 96.0,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "Bradesco Saúde",
+      "numero_guia_prestador": "73000407",
+      "data_atendimento": "2026-06-03T00:00:00.000",
+      "descricao_procedimento": "Imobilização não gessada",
+      "categoria_glosa": "Código ou procedimento incompatível",
+      "status_recurso": "NÃO RECORRIDA",
+      "valor_glosado": 201.29,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 201.29,
+      "score_prioridade": 94.4,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "UNIMED - COOPERATIVA DE TRABALHO MÉDICO",
+      "numero_guia_prestador": "G009000101",
+      "data_atendimento": "2026-02-27T00:00:00.000",
+      "descricao_procedimento": "Ultrassonografia de estrutura superficial",
+      "categoria_glosa": "Duplicidade",
+      "status_recurso": "Não apresentado",
+      "valor_glosado": 195.46,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 195.46,
+      "score_prioridade": 93.6,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "Bradesco Saúde",
+      "numero_guia_prestador": "73000006",
+      "data_atendimento": "2026-02-12T00:00:00.000",
+      "descricao_procedimento": "Consulta em consultório (horário normal ou preestabelecido)",
+      "categoria_glosa": "Autorização",
+      "status_recurso": "NÃO RECORRIDA",
+      "valor_glosado": 190.73,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 190.73,
+      "score_prioridade": 92.8,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "Bradesco Saúde",
+      "numero_guia_prestador": "73000003",
+      "data_atendimento": "2026-02-04T00:00:00.000",
+      "descricao_procedimento": "Punção articular diagnóstica ou terapêutica",
+      "categoria_glosa": "Código ou procedimento incompatível",
+      "status_recurso": "EM ANÁLISE",
+      "valor_glosado": 360.58,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 360.58,
+      "score_prioridade": 90.2,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "Bradesco Saúde",
+      "numero_guia_prestador": "73000243",
+      "data_atendimento": "2026-04-08T00:00:00.000",
+      "descricao_procedimento": "Ultrassonografia de articulação",
+      "categoria_glosa": "Autorização",
+      "status_recurso": "EM ANÁLISE",
+      "valor_glosado": 283.37,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 283.37,
+      "score_prioridade": 88.6,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "UNIMED - COOPERATIVA DE TRABALHO MÉDICO",
+      "numero_guia_prestador": "G009000273",
+      "data_atendimento": "2026-04-16T00:00:00.000",
+      "descricao_procedimento": "Consulta em consultório (horário normal ou preestabelecido)",
+      "categoria_glosa": "Código ou procedimento incompatível",
+      "status_recurso": "Não apresentado",
+      "valor_glosado": 147.35,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 147.35,
+      "score_prioridade": 88.1,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "UNIMED - COOPERATIVA DE TRABALHO MÉDICO",
+      "numero_guia_prestador": "G009000001",
+      "data_atendimento": "2026-02-02T00:00:00.000",
+      "descricao_procedimento": "Consulta em consultório (horário normal ou preestabelecido)",
+      "categoria_glosa": "Documentação clínica",
+      "status_recurso": "Não apresentado",
+      "valor_glosado": 147.05,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 147.05,
+      "score_prioridade": 87.3,
+      "prioridade": "Alta"
+    },
+    {
+      "operadora": "UNIMED - COOPERATIVA DE TRABALHO MÉDICO",
+      "numero_guia_prestador": "G009000555",
+      "data_atendimento": "2026-07-02T00:00:00.000",
+      "descricao_procedimento": "Ultrassonografia de articulação",
+      "categoria_glosa": "Código ou procedimento incompatível",
+      "status_recurso": "Em análise",
+      "valor_glosado": 205.96,
+      "valor_recuperado": 0.0,
+      "valor_pendente_recuperacao": 205.96,
+      "score_prioridade": 86.2,
+      "prioridade": "Alta"
+    }
+  ]
+}
