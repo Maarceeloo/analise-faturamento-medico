@@ -1,5 +1,9 @@
 # Análise de Faturamento Médico | SQL, Python, Power BI e IA
 
+## Dashboard — Visão Financeira
+
+![Dashboard de Faturamento Médico](docs/Visao_Financeira_GitHub.jpg)
+
 Projeto de portfólio com **dados simulados**, voltado à análise financeira de faturamento médico, glosas, contas a receber e priorização de cobranças.
 
 ## O que foi desenvolvido
